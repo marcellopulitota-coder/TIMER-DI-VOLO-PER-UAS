@@ -1,0 +1,5 @@
+{
+  "name": "TIMER DI VOLO PER UAS",
+  "description": "Un'applicazione per la gestione e il cronometraggio dei tempi di volo per i droni (UAS). Consente di impostare timer predefiniti per diversi modelli di UAS, un timer personalizzato, e fornisce avvisi audio vocali e sonori durante il conto alla rovescia per garantire atterraggi sicuri e tempestivi.",
+  "requestFramePermissions": []
+}
